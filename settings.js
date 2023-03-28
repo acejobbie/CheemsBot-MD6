@@ -15,23 +15,23 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['254735847430'] //ur owner number
-global.ownername = "joshhacker" //ur owner name
-global.ytname = "YT: joshhacker" //ur yt chanel name
-global.socialm = "GitHub: Joshhacker254" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.owner = ['254113200483'] //ur owner number
+global.ownername = "ᵏⁱʳᵏ🇦🇱 ⃝🅐︎𝗰𝗲 ɨ𝗇ƒɾα🅱️𝖑αᥴᥴ🔥📵│⃟🚫➢" //ur owner name
+global.ytname = "YT: acejobbie98" //ur yt chanel name
+global.socialm = "GitHub: AceJobbie98" //ur github or insta name
+global.location = "Kenya, Nakuru, Naks" //ur location
 
 //bot bomdy 
-global.ownernomer = "254735847430" //ur number
-global.premium = ['254790735110'] //ur premium number
-global.botname = 'Josh Bot MD V6' //ur bot name
+global.ownernomer = "254113200483" //ur number
+global.premium = ['254113200483'] //ur premium number
+global.botname = '𝐀𝐜𝐞 𝐁𝐨𝐭✞︎ MD V6' //ur bot name
 global.linkz = "https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
-global.botscript = 'https://github.com/Joshhacker254/CheemsBot-MD6' //script link
-global.themeemoji = "🦄" //ur theme emoji
-global.packname = "Sticker By josh" //ur sticker watermark packname
-global.author = "josh Bot\n\n\nA whatsapp bot developed by\njoshhacker\n\n\n\n\n\n\n\n       --------______-------\n\n\n\n\n\n\n\nContact No. : +254735847430" //ur sticker watermark author
-global.wm = "josh Bot Inc." //ur watermark
+global.botscript = 'https://github.com/acejobbie/CheemsBot-MD6' //script link
+global.themeemoji = "🇦🇱" //ur theme emoji
+global.packname = "ꀤ_αｍ_🅐︎𝗰𝗲.ᵏⁱʳᵏ🇦🇱 ⃝🅐︎𝗰𝗲 ɨ𝗇ƒɾα🅱️𝖑αᥴᥴ🔥📵" //ur sticker watermark packname
+global.author = "ace Bot\n\n\nA whatsapp bot developed by\nacejobbie\n\n\n\n\n\n\n\n       --------______-------\n\n\n\n\n\n\n\nContact No. : +254735847430" //ur sticker watermark author
+global.wm = "ace Bot Inc." //ur watermark
 
 // Other
 global.sessionName = 'session'
